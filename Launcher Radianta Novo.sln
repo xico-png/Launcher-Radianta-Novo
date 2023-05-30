@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launcher Radianta Completo", "Launcher Radianta Completo.csproj", "{C00E14F7-607D-4F5B-A140-9CE45056A75A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00E14F7-607D-4F5B-A140-9CE45056A75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00E14F7-607D-4F5B-A140-9CE45056A75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00E14F7-607D-4F5B-A140-9CE45056A75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00E14F7-607D-4F5B-A140-9CE45056A75A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76BD5C2E-B90A-45D2-A22D-27F5FC2108DD}
+	EndGlobalSection
+EndGlobal
